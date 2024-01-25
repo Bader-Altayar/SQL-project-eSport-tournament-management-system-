@@ -1,5 +1,3 @@
-REM   Script: Session 05
-REM   2
 
 create table Team  
 ( 
